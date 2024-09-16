@@ -1,0 +1,7 @@
+*.env
+*.ini
+/shelf/
+/workspace.xml
+.idea/*
+.venv/*
+migration/*
