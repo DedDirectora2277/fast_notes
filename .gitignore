@@ -4,7 +4,6 @@
 /workspace.xml
 .idea/*
 .venv/*
-migration/*
 *.pyc
 __pycache__/
 /docker-compose.yml
